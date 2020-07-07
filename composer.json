@@ -1,13 +1,13 @@
 {
-    "name": "spatie/laravel-webhook-server",
+    "name": "agyson/laravel-webhook-server",
     "description": "Send webhooks in Laravel apps",
     "keywords": [
-        "spatie",
+        "agyson",
         "laravel-webhook-server",
         "webhook",
         "server"
     ],
-    "homepage": "https://github.com/spatie/laravel-webhook-server",
+    "homepage": "https://github.com/agyson/laravel-webhook-server",
     "license": "MIT",
     "authors": [
         {
